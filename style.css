@@ -1,0 +1,163 @@
+.navbar-email{
+	background-image: url("img/BAR.svg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 900px;
+	margin: 0 auto;
+}
+
+.navbar-email .container{
+	margin-top: 20px;
+}
+
+.item a{
+	color: #fff;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.item a:hover{
+	color: #daa70d;
+	background-color: blue;
+}
+
+li span {
+	margin-left: 10px;
+	color: #daa70d;
+	font-weight: bold;
+}
+
+#title-commande {
+	font-family: roboto;
+	/*font-size: 14px;*/
+}
+
+#title-detail-commande {
+	/*font-size: 12px;*/
+	color: #daa70d;
+	/*font-family: roboto;*/
+	margin-left: 10px;
+
+}
+
+table thead tr th{
+	color: #fff;
+	border-right: 3px solid #fff;
+}
+
+#image-commande {
+	background-color: #bbb;
+	height: 45px;
+	border-bottom: 0px solid #bbb;
+}
+
+#desc-article-commande{
+	background-color: #dea90d; 
+	height: 45px;
+	border-bottom: 0px solid #dea90d;
+}
+
+#quantite-article{
+	background-color: #814f1e;
+	height: 45px;
+	border-bottom: 0px solid #814f1e;
+}
+
+#prix-article{
+	background-color: #0d0d0d;
+	height: 45px;
+	border-bottom: 0px solid #0d0d0d;
+}
+
+#frais-livraison{
+	background-color: #814f1e;
+	color: #fff;
+	/*border:0px;*/
+	/*border-bottom: 0px solid #814f1e;*/
+}
+
+#total-commande{
+	background-color: #dea90d; 
+	color: #fff;
+	/*border:0px;*/
+	/*border-bottom: 0px solid #dea90d;*/
+}
+
+.noBorder  {
+	border: 0;
+}
+
+
+.image-article {
+	width: 150px;
+	height: 150px;
+}
+
+tfoot tr td{
+	border: none;
+}
+
+.tfoot-commande{
+	font-family: calibri ;
+	font-weight: bold;
+	border-top: 0px solid #fff;
+	height: 45px;
+}
+
+#title-others{
+	border-bottom: 3px solid #dea90d;
+}
+
+#title-others h3 {
+	color: #fff;
+}
+#title-others > div {
+	background-color: #dea90d;
+}
+
+#content-others #galery-commmande {
+	background-color: #bbb;
+
+}
+#content-others .article-img {
+	height: 306px;
+	width: 306px;
+	margin-top: 15px;
+	box-shadow: 0px 0px 0px 3px #bbb;
+	border-radius: 5px;
+	
+	
+}
+
+.article-img-row {
+	/*background-color: #bbb;*/
+}
+
+
+#content-others .nene{
+	position: relative;
+
+}
+
+#content-others .nene img{
+	height: 120px;
+	width: 120px;
+	margin-top: -50px;
+	float: right;
+	margin-right: 30px;
+
+
+}
+
+
+#content-others .nene span {
+	color: #fff;
+	/*	font-size: 12px;*/
+	font-weight: bold;
+	font-family: roboto;
+	line-height: normal;
+	float: right;
+	margin-right: -80px;
+}
+
